@@ -1,0 +1,7 @@
+/lib/
+/bin/
+/target/
+
+*.class
+*.classpath
+*.project
